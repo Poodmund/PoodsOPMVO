@@ -95,13 +95,17 @@ PoodsOPMVO utilises many very hi-res textures and therefore can increase system 
 7.	- Changelog
 
 
-
-v0.1.0 - Initial Release
-- First GitHub commit & beta release
-
+v0.1.1 - 8th Jan. 16 - Forgot to include Scatterer files within .zip (Doh!)
+v0.1.0 - 6th Jan. 16 - Initial Release - First GitHub commit & beta release
 
 
-8.	- License
+8.	- Mini-AVC
+
+
+This mod includes version checking using MiniAVC. If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. For a more comprehensive version checking experience, please download the KSP-AVC Plugin - http://forum.kerbalspaceprogram.com/index.php?/topic/72169-1.
+
+
+9.	- License
 
 
 

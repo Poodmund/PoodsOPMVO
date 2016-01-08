@@ -1,0 +1,39 @@
+{
+	"NAME":"PoodsOPMVO",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=245",
+	"DOWNLOAD":"https://github.com/Poodmund/PoodsOPMVO/releases/latest",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/Poodmund/PoodsOPMVO/master/README.md",
+
+	"GITHUB":
+	{
+		"USERNAME":"Poodmund",
+		"REPOSITORY":"PoodsOPMVO",
+		"ALLOW_PRE_RELEASE":true,
+	},
+
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":1,
+		"PATCH":1,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":5
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":5
+	},
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":5
+	}
+}
