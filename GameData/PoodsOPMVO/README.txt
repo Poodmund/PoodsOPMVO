@@ -22,6 +22,7 @@ Pood's OPM-VO is a graphical overhaul modification for Kerbal Space Program's ad
 - Scatterer effects when transitioning from orbit to landed do not appear well and will be worked on.
 - At low altitue flight on Tekto, the mountains pierce through Scatterer's effect.
 - Thatmo support has been removed temporarily whilst it is redone.
+- Some more which I can't think of. :P
 
 ### 4 - How to Install
 
