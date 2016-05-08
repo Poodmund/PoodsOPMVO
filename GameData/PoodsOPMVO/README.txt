@@ -14,15 +14,14 @@ Pood's OPM-VO is a graphical overhaul modification for Kerbal Space Program's ad
 - Surface fog/dust
 - Heavy, dark Hydrocarbon Seas on Tekto
 - Storms on Tekto (planned)
-- Sigma OPM-Tilt support for Urlum
-- Procedural Gas Giants textures on Sarnus and Neidon from Kopernicus Expansion (may deprecate)
+- Sigma OPM-Tilt support for Urlum (upcoming for future 0.2.* rekleases)
 - Suggest more!
 
 ### 3 - Known Issues
 
-- Volumetric particles don't tile "brilliantly" and you may see edge tiling in some areas.
-- Scatterer can sometimes cause saturated bands of colour to appear at Sunrise/Sunset, this is probably due to bad configs on my end.
-- With Kopernicus Expansion the Gas Giants' texture maps may appear to be mirrored vertically, this isn't necessarily horrible but is known about.
+- Scatterer effects when transitioning from orbit to landed do not appear well and will be worked on.
+- At low altitue flight on Tekto, the mountains pierce through Scatterer's effect.
+- Thatmo support has been removed temporarily whilst it is redone.
 
 ### 4 - How to Install
 
@@ -42,17 +41,17 @@ The following KSP mods must be installed prior to using PoodsOPMVO for it to fun
 
 ### 6 - Optional Mods
 
-- OPM Tilt by Sigma88 (highly recommended) - http://forum.kerbalspaceprogram.com/index.php?/topic/122314-1
+- OPM Tilt by Sigma88 (Support will be added soon) - http://forum.kerbalspaceprogram.com/index.php?/topic/122314-1
 - Distant Object Enhancement by MOARdv - http://forum.kerbalspaceprogram.com/index.php?/topic/89214-1
 - Planetshine by Valerian - http://forum.kerbalspaceprogram.com/index.php?/topic/87012-1
-- Kopernicus Expansion by MrHappyFace - http://forum.kerbalspaceprogram.com/index.php?/topic/119211-w
 
 ### 7 - Warnings
 
-PoodsOPMVO utilises many very hi-res textures and therefore can increase system RAM usage to the point where it may cause KSP to crash unexpectedly when run through a 32bit launcher (pre KSP v1.1). It is advisable if using PoodsOPMVO to run a discrete GPU and also KSP in OpenGL to offload the texture caching to the GPU's VRAM. If running KSP through a 64bit launcher, this should not be an issue if your system has a large amount of system RAM.
+PoodsOPMVO utilises many very hi-res textures and therefore can increase system RAM usage to the point where it may cause KSP to crash unexpectedly when run through a 32bit launcher (pre KSP v1.1). If running KSP through a 64bit launcher, this should not be an issue if your system has a large amount of system RAM.
 
 ### 8 - Changelog
 
+- v0.2.0 - 8th May. 16 - Rebuilt from ground up for KSP 1.1.2; Thatmo work has not been included.
 - v0.1.3 - 26th Jan. 16 - Scatterer for Gas Giants supported. Removed KSPRC fix file. Updated cloud configs. 
 - v0.1.2 - 11th Jan. 16 - Included support for OPM Tilt and Kopernicus Expansion. Compatibility with KSPRC has been fixed by included updated pqs.cfg file for KSPRC (bundled in distribution).
 - v0.1.1 - 8th Jan. 16 - Forgot to include Scatterer files within .zip (Doh!)
@@ -65,3 +64,4 @@ This mod includes version checking using MiniAVC. If you opt-in, it will use the
 ### 10 - License
 
 Poodmund's Outer Planets Mod - Visual Overhaul is licensed under the CC-BY-ND license, however, any/all other work contained within this distribution is licensed under it's respective owner's license where applicable.
+Volumetric cloud particle textures have been included from Environmental Visual Enhancements with express permission from Ryan Bray to be packaged within OPM-VO's own directory structure. Environmental Visual Enhancements is licensed under the MIT License and these textures are subject as such; these textures can be located under the GameData/PoodsOPMVO/Textures/particles path.
