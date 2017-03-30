@@ -14,15 +14,14 @@ Pood's OPM-VO is a graphical overhaul modification for Kerbal Space Program's ad
 - Surface fog/dust
 - Heavy, dark Hydrocarbon Seas on Tekto
 - Storms on Tekto (planned)
-- Sigma OPM-Tilt support for Urlum (upcoming for future 0.2.* rekleases)
+- Sigma OPM-Tilt support for Urlum (planned)
 - Suggest more!
 
 ### 3 - Known Issues
 
 - Scatterer effects when transitioning from orbit to landed do not appear well and will be worked on.
 - At low altitue flight on Tekto, the mountains pierce through Scatterer's effect.
-- Thatmo support has been removed temporarily whilst it is redone.
-- Some more which I can't think of. :P
+- EVE cloud integration with Scatterer is not functioning, this is a known issue with Scatterer.
 
 ### 4 - How to Install
 
@@ -52,6 +51,7 @@ PoodsOPMVO utilises many very hi-res textures and therefore can increase system 
 
 ### 8 - Changelog
 
+- v0.3.0 - 30th March. 17 - KSP 1.2.2 Compatibility update.
 - v0.2.0 - 8th May. 16 - Rebuilt from ground up for KSP 1.1.2; Thatmo work has not been included.
 - v0.1.3 - 26th Jan. 16 - Scatterer for Gas Giants supported. Removed KSPRC fix file. Updated cloud configs. 
 - v0.1.2 - 11th Jan. 16 - Included support for OPM Tilt and Kopernicus Expansion. Compatibility with KSPRC has been fixed by included updated pqs.cfg file for KSPRC (bundled in distribution).
@@ -64,5 +64,6 @@ This mod includes version checking using MiniAVC. If you opt-in, it will use the
 
 ### 10 - License
 
-Poodmund's Outer Planets Mod - Visual Overhaul is licensed under the CC-BY-ND license, however, any/all other work contained within this distribution is licensed under it's respective owner's license where applicable.
+Poodmund's Outer Planets Mod - Visual Overhaul is licensed under the All Rights Reserved license, however, any/all other work contained within this distribution is licensed under it's respective owner's license where applicable.
+
 Volumetric cloud particle textures have been included from Environmental Visual Enhancements with express permission from Ryan Bray to be packaged within OPM-VO's own directory structure. Environmental Visual Enhancements is licensed under the MIT License and these textures are subject as such; these textures can be located under the GameData/PoodsOPMVO/Textures/particles path.
