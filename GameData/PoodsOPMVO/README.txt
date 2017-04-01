@@ -51,7 +51,8 @@ PoodsOPMVO utilises many very hi-res textures and therefore can increase system 
 
 ### 8 - Changelog
 
-- v0.3.0 - 30th March. 17 - KSP 1.2.2 Compatibility update.
+- v0.3.1 - 01st Apr. 17 - Fixed scatterer's configs so they play well with other mods and don't repeatedly add OPM body configs to other body's ones.
+- v0.3.0 - 30th Mar. 17 - KSP 1.2.2 Compatibility update.
 - v0.2.0 - 8th May. 16 - Rebuilt from ground up for KSP 1.1.2; Thatmo work has not been included.
 - v0.1.3 - 26th Jan. 16 - Scatterer for Gas Giants supported. Removed KSPRC fix file. Updated cloud configs. 
 - v0.1.2 - 11th Jan. 16 - Included support for OPM Tilt and Kopernicus Expansion. Compatibility with KSPRC has been fixed by included updated pqs.cfg file for KSPRC (bundled in distribution).
