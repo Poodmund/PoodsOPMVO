@@ -14,7 +14,7 @@ Pood's OPM-VO is a graphical overhaul modification for Kerbal Space Program's ad
 - Surface fog/dust
 - Heavy, dark Hydrocarbon Seas on Tekto
 - Storms on Tekto (planned)
-- Sigma OPM-Tilt support for Urlum (planned)
+- Sigma OPM-Tilt support for Urlum
 - Suggest more!
 
 ### 3 - Known Issues
@@ -41,7 +41,7 @@ The following KSP mods must be installed prior to using PoodsOPMVO for it to fun
 
 ### 6 - Optional Mods
 
-- OPM Tilt by Sigma88 (Support will be added soon) - http://forum.kerbalspaceprogram.com/index.php?/topic/122314-1
+- OPM Tilt by Sigma88 - http://forum.kerbalspaceprogram.com/index.php?/topic/122314-1
 - Distant Object Enhancement by MOARdv - http://forum.kerbalspaceprogram.com/index.php?/topic/89214-1
 - Planetshine by Valerian - http://forum.kerbalspaceprogram.com/index.php?/topic/87012-1
 
@@ -51,6 +51,7 @@ PoodsOPMVO utilises many very hi-res textures and therefore can increase system 
 
 ### 8 - Changelog
 
+- v0.3.3 - 02nd Apr. 17 - Added Sigma OPM-Tilt support. As the base colour-map is effectively a cloud layer, it doesn't render quite right with scatterer though; good enough for now.
 - v0.3.2 - 01st Apr. 17 - Forgot to render Tekto's oceans... doh!
 - v0.3.1 - 01st Apr. 17 - Fixed scatterer's configs so they play well with other mods and don't repeatedly add OPM body configs to other body's ones.
 - v0.3.0 - 30th Mar. 17 - KSP 1.2.2 Compatibility update.
