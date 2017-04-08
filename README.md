@@ -50,7 +50,7 @@ PoodsOPMVO utilises many very hi-res textures and therefore can increase system 
 
 ### 8 - Changelog
 
-- v0.3.4 - 08th Apr. 17 - Edited Tekto's & Urlums EVE cloud layers slightly, amended SVE integration due to SVE's new file structure and added in Kopernicus' new Ring Shader effects for all bodies (if Jool rings are present, they are maintained). Kopernicus' Ring Shader update is not incorporated in the latest Kopernicus release yet, however, the patch can be downloaded here to be installed into your Kopernicus directory: https://goo.gl/YcvfOa
+- v0.3.4 - 08th Apr. 17 - Edited Tekto's & Urlums EVE cloud layers slightly, amended SVE integration due to SVE's new file structure and added in Kopernicus' new Ring Shader effects for all bodies (if Jool rings are present, they are maintained). Kopernicus' Ring Shader update is not incorporated in the latest Kopernicus release yet, however, the patch can be downloaded here to be installed into your Kopernicus directory: http://bit.ly/2oPRAjo
 - v0.3.3 - 02nd Apr. 17 - Added Sigma OPM-Tilt support. As the base colour-map is effectively a cloud layer, it doesn't render quite right with scatterer though; good enough for now.
 - v0.3.2 - 01st Apr. 17 - Forgot to render Tekto's oceans... doh!
 - v0.3.1 - 01st Apr. 17 - Fixed scatterer's configs so they play well with other mods and don't repeatedly add OPM body configs to other body's ones.
